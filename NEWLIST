@@ -1,0 +1,299 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 SD (Opt-1)
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 HD (Opt-2)
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1,DESP |group-title="Germany",Sky Sport Bundesliga 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
+
+#EXTINF:-1,DESP |group-title="Germany", Sky Bundesliga 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
+
+#EXTINF:-1,DESP |group-title="Germany", Sky Bundesliga 3
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
+
+#EXTINF:-1,DESP |group-title="Germany", Sky Sport 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
+
+#EXTINF:-1,DESP |group-title="Germany",Sky Sport 2  HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
+
+#EXTINF:-1,DESP |group-title="Germany", Sport1  HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera English (Opt-1) (QA)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-1) (GB)
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-2) (GB)
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-1) (US)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-2) (US)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-3) (US)
+http://persik.by/stream/2130/401056/10479.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula (Opt-2)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-1)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-1)
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-2)
+http://ott-cdn.ucom.am/s25/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="UK",Euronews ENG
+http://164.40.161.46:8002/play/s4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 ARABIC NEWS",France 24 Arabic (FR) (New!)
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 ARABIC NEWS",RT Arabic (RU) (New!)
+https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="24/7 ARABIC NEWS",TRT Arabic (TR)
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="UAE",MBC 1 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="UAE",MBC 1 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="UAE",MBC 2 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="UAE",MBC 2 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="UAE",MBC 3 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="UAE",MBC 3 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE",MBC 4 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE",MBC 4 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="UAE",MBC Action (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="UAE",MBC Action (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="UAE",MBC Max (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="UAE",MBC Max (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+
+#EXTINF:0,(FR) BEIN SPORT 1 HD
+http://163.172.8.141:8000/test/test/3328
+
+#EXTINF:0,(FR) BEIN SPORT 2 HD
+http://163.172.8.141:8000/test/test/3327
+
+#EXTINF:0,(FR) BEIN SPORT 3 HD
+http://163.172.8.141:8000/test/test/3326
+
+#EXTINF:0,(FR) BEIN SPORT MAX 10
+http://163.172.8.141:8000/test/test/3319
+
+#EXTINF:0,(FR) BEIN SPORT MAX 4
+http://163.172.8.141:8000/test/test/3325
+
+#EXTINF:0,(FR) BEIN SPORT MAX 5
+http://163.172.8.141:8000/test/test/3324
+
+#EXTINF:0,(FR) BEIN SPORT MAX 6
+http://163.172.8.141:8000/test/test/3323
+
+#EXTINF:0,(FR) BEIN SPORT MAX 7
+http://163.172.8.141:8000/test/test/3322
+
+#EXTINF:0,(FR) BEIN SPORT MAX 8
+http://163.172.8.141:8000/test/test/3321
+
+#EXTINF:0,(FR) BEIN SPORT MAX 9
+http://163.172.8.141:8000/test/test/3320
+
+#EXTINF:0,(FR) CANAL  SPORT HD
+http://163.172.8.141:8000/test/test/3334
+
+#EXTINF:0,BEIN LA LIGA HD FULL
+http://163.172.8.141:8000/test/test/2282
+
+#EXTINF:0,BeIn Sports LaLiga HD
+http://163.172.8.141:8000/test/test/2851
+
+#EXTINF:0,BeIn Sports LaLiga SD
+http://163.172.8.141:8000/test/test/2852
+
+#EXTINF:0,LaLiga TV HD
+http://163.172.8.141:8000/test/test/2849
+
+#EXTINF:0,LaLiga TV
+http://163.172.8.141:8000/test/test/2850
+
+#EXTINF:0,EVENTOS:BEIN LALIGA 1
+http://163.172.8.141:8000/test/test/2719
+
+#EXTINF:0,EVENTOS:BEIN  LALIGA 2
+http://163.172.8.141:8000/test/test/2718
+
+#EXTINF:0,M.CAMPEONES HD FULL
+http://163.172.8.141:8000/test/test/4552
+
+#EXTINF:0,M. Liga de campeones HD
+http://163.172.8.141:8000/test/test/2767
+
+#EXTINF:0,M liga de Campeones
+http://163.172.8.141:8000/test/test/2770
+
+#EXTINF:0,LIGA DE CAMPEONES 1 HD
+http://163.172.8.141:8000/test/test/2712
+
+#EXTINF:0,LIGA DE CAMPEONES 2
+http://163.172.8.141:8000/test/test/2711
+
+#EXTINF:0,EVENTOS:Bein Sports MAX 3  España
+http://163.172.8.141:8000/test/test/2710
+
+#EXTINF:0,LaLiga 123 FHD
+http://163.172.8.141:8000/test/test/2862
+
+#EXTINF:0,LaLiga 1|2|3 HD
+http://163.172.8.141:8000/test/test/2845
+
+#EXTINF:0,LaLiga 1|2|3
+http://163.172.8.141:8000/test/test/2846
+
+#EXTINF:60,La LIGA 4 Sports
+http://163.172.8.141:8000/test/test/3592
+
+#EXTINF:0,Movistar Deportes HD
+http://163.172.8.141:8000/test/test/2729
+
+#EXTINF:0,MOVISTAR DEPORTES 1 HD
+http://163.172.8.141:8000/test/test/2722
+
+#EXTINF:0,MOVISTAR DEPORTES 2 HD
+http://163.172.8.141:8000/test/test/2721
+
+#EXTINF:0,MOVISTAR DEPORTES 3 HD
+http://163.172.8.141:8000/test/test/4575
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports News
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26037.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN SPORTS Global
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26039.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports NBA
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26038.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 1 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25526.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 2 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25529.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 3 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25532.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 4 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25535.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 5 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25538.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 6 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25541.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 7 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25544.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 8 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25547.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 9 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25550.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 10 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25553.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 11 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25590.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 12 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25591.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 13 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25592.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 14 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25593.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 15 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25594.ts
+
+#EXTINF:-1,group-title="KAFIH",beIN Sports 16 HD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25595.ts
+
+#EXTINF:-1,group-title="KAFIH",Bein Sport 1HD FR
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26003.ts
+
+#EXTINF:-1,group-title="KAFIH",Bein Sport 2HD FR
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26004.ts
+
+#EXTINF:-1,group-title="MAROC",TvTamazight-4
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25890.ts
+
+#EXTINF:-1,group-title="MAROC",Meghreb-el-bilad
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25873.ts
+
+#EXTINF:-1,group-title="MAROC",Medi 1 TV
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25856.ts
+
+#EXTINF:-1,AR:MBC_MAX
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25848.ts
+
+#EXTINF:-1,AR:MBC_BOLLYWOOD
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25847.ts
+
+#EXTINF:-1,AR:MBC_ACTION
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25846.ts
+
+#EXTINF:-1,AR:MBC_4
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25845.ts
+
+#EXTINF:-1,AR:MBC_3
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25844.ts
+
+#EXTINF:-1,AR:MBC_2
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25843.ts
+
+#EXTINF:-1,AR:MBC_1
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25842.ts
+
+#EXTINF:-1,group-title="MAROC",Assadissa
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25855.ts
+
+#EXTINF:-1,group-title="MAROC",Arriadia Sat
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25854.ts
+
+#EXTINF:-1,group-title="MAROC",Arrabiaa
+http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25853.ts
