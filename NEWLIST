@@ -100,6 +100,84 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="UAE",MBC Max (HD)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
 
+#EXTINF:-1,AR:Bein Movie 3 HD
+http://sghub.ml:80/daffy/daffy/19376
+
+#EXTINF:-1,AR:Bein Movie 4 HD
+http://sghub.ml:80/daffy/daffy/19513
+
+#EXTINF:-1,AR:Bein Movies 1
+http://sghub.ml:80/daffy/daffy/17031
+
+#EXTINF:-1,AR:Bein Movies 2
+http://sghub.ml:80/daffy/daffy/17030
+
+#EXTINF:-1,AR:Bein Movies 3
+http://sghub.ml:80/daffy/daffy/17029
+
+#EXTINF:-1,AR:BEIN SPORT 1 HD
+http://sghub.ml:80/daffy/daffy/17061
+
+#EXTINF:-1,AR:BEIN SPORT 2 HD
+http://sghub.ml:80/daffy/daffy/17060
+
+#EXTINF:-1,AR:BEIN SPORT 3 HD
+http://sghub.ml:80/daffy/daffy/17059
+
+#EXTINF:-1,AR:BEIN SPORT 4 HD
+http://sghub.ml:80/daffy/daffy/17058
+
+#EXTINF:-1,AR:BEIN SPORT 5 HD
+http://sghub.ml:80/daffy/daffy/17057
+
+#EXTINF:-1,AR:BEIN SPORT 6 HD
+http://sghub.ml:80/daffy/daffy/17056
+
+#EXTINF:-1,AR:BEIN SPORT 7 HD
+http://sghub.ml:80/daffy/daffy/17055
+
+#EXTINF:-1,AR:BEIN SPORT 8 HD
+http://sghub.ml:80/daffy/daffy/17054
+
+#EXTINF:-1,AR:BEIN SPORT 9 HD
+http://sghub.ml:80/daffy/daffy/17053
+
+#EXTINF:-1,AR:BEIN SPORT 10 HD
+http://sghub.ml:80/daffy/daffy/17052
+
+#EXTINF:-1,AR:Bein SPORT 11 HD
+http://sghub.ml:80/daffy/daffy/17051
+
+#EXTINF:-1,AR:BEIN SPORT  12 HD English
+http://sghub.ml:80/daffy/daffy/19375
+
+#EXTINF:-1,AR:Bein Sport 12 HD ENGLISH
+http://sghub.ml:80/daffy/daffy/12532
+
+#EXTINF:-1,AR:Bein Sports Max 1 HD
+http://sghub.ml:80/daffy/daffy/53024
+
+#EXTINF:-1,AR:Bein Sports Max 2 HD
+http://sghub.ml:80/daffy/daffy/53023
+
+#EXTINF:-1,AR:Bein Sports Max 3 HD
+http://sghub.ml:80/daffy/daffy/53022
+
+#EXTINF:-1,AR:BEIN SPORTS MAX 4 HD
+http://sghub.ml:80/daffy/daffy/53021
+
+#EXTINF:-1,AR:BEIN SPORTS MAX 5 HD
+http://sghub.ml:80/daffy/daffy/53020
+
+#EXTINF:-1,AR:BEIN SPORTS MAX 6 HD
+http://sghub.ml:80/daffy/daffy/53019
+
+#EXTINF:-1,AR:BEIN SPORTS MAX 7 HD
+http://sghub.ml:80/daffy/daffy/53018
+
+#EXTINF:-1,AR:BEIN SPORTS MAX 8 HD
+http://sghub.ml:80/daffy/daffy/53017
+
 #EXTINF:0,(FR) BEIN SPORT 1 HD
 http://163.172.8.141:8000/test/test/3328
 
