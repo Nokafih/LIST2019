@@ -20,7 +20,7 @@ http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 http://persik.by/stream/2130/401056/10479.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula (Opt-2)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1-begin=1473029444989000-dur=80000000-seq=18412869.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",ARRYADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
