@@ -46,44 +46,74 @@ https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="24/7 ARABIC NEWS",TRT Arabic (TR)
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,AR:BEIN SPORT 1 FHD
-https://2220.janjua.pw:8088/live/janbeinsports1/playlist.m3u8
-#EXTINF:-1,AR:BEIN SPORT 1 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143099
-#EXTINF:-1,AR:BEIN SPORT 1 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125017
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6263
 
-#EXTINF:-1,AR:BEIN SPORT 2 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124393
-#EXTINF:-1,AR:BEIN SPORT 2 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124379
-#EXTINF:-1,AR:BEIN SPORT 2 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143097
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6262
 
-#EXTINF:-1,AR:BEIN SPORT 3 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125015
-#EXTINF:-1,AR:BEIN SPORT 3 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124392
-#EXTINF:-1,AR:BEIN SPORT 3 SHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143095
+#EXTINF:-1,|FR| BEIN SPORTS 1 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11720
 
-#EXTINF:-1,AR:BEIN SPORT 4 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125014
-#EXTINF:-1,AR:BEIN SPORT 4 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124391
-#EXTINF:-1,AR:BEIN SPORT 4 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143093
+#EXTINF:-1,|HEVC| BEIN SPORTS 1
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/156687
 
-#EXTINF:-1,AR:BEIN SPORT 5 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125013
-#EXTINF:-1,AR:BEIN SPORT 5 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124376
-#EXTINF:-1,AR:BEIN SPORT 5 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143091
+#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6261
 
-#EXTINF:-1,AR:BEIN SPORT 6 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125012
-#EXTINF:-1,AR:BEIN SPORT 6 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124389
-#EXTINF:-1,AR:BEIN SPORT 6 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143089
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6260
+
+#EXTINF:-1,|FR| BEIN SPORTS 2 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11719
+
+#EXTINF:-1,|HEVC| BEIN SPORTS 2
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/156686
+
+#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6259
+
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6258
+
+#EXTINF:-1,|FR| BEIN SPORTS 3 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11718
+
+#EXTINF:-1,|HEVC| BEIN SPORTS 3
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/156685
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 4 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6257
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 4 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11717
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 5 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6256
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 5 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11716
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 6 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6255
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 6 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11715
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 7 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6254
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 7 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11714
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 8 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6253
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 8 SD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11713
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 9 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6252
+
+#EXTINF:-1,|FR| BEIN SPORTS MAX 10 HD
+http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/133025
