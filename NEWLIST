@@ -19,6 +19,9 @@ http://persik.by/stream/2130/401056/10479.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula (Opt-2)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
+#EXTINF:-1,AR - AL MAGHRIBYA
+http://voxtv.dynns.com:8000/arabic/arabic/879
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/WIN_20181006_20_24_01_Pro.jpg" group-title="MOROCCO",ARRYADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
@@ -262,3 +265,74 @@ http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124375
 #EXTINF:-1,|AR| beIN SPORTS 7 HD |HEVC|
 http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124374
 
+#EXTINF:-1,AR - ZEE AFLAM
+http://voxtv.dynns.com:8000/arabic/arabic/1000
+
+#EXTINF:-1,AR - TIME CINEMA
+http://voxtv.dynns.com:8000/arabic/arabic/997
+
+#EXTINF:-1,AR - SYRIA TV
+http://voxtv.dynns.com:8000/arabic/arabic/994
+
+#EXTINF:-1,AR - SYRIA NOUR EL SHAM
+http://voxtv.dynns.com:8000/arabic/arabic/993
+
+#EXTINF:-1,AR - ROTANA MASSRIA
+http://voxtv.dynns.com:8000/arabic/arabic/977
+
+#EXTINF:-1,AR - NILE SPORT
+http://voxtv.dynns.com:8000/arabic/arabic/953
+
+#EXTINF:-1,AR - MBC MASAR 2
+http://voxtv.dynns.com:8000/arabic/arabic/941
+
+#EXTINF:-1,AR - MBC MASAR
+http://voxtv.dynns.com:8000/arabic/arabic/940
+
+#EXTINF:-1,AR - MBC  2
+http://voxtv.dynns.com:8000/arabic/arabic/935
+
+#EXTINF:-1,AR - MBC 1
+http://voxtv.dynns.com:8000/arabic/arabic/934
+
+#EXTINF:-1,AR - KTV 2
+http://voxtv.dynns.com:8000/arabic/arabic/933
+
+#EXTINF:-1,AR - KTV 1
+http://voxtv.dynns.com:8000/arabic/arabic/932
+
+#EXTINF:-1,AR - DUBAI ONE
+http://voxtv.dynns.com:8000/arabic/arabic/917
+
+#EXTINF:-1,AR - BEIN MOVIES 4 HD
+http://voxtv.dynns.com:8000/arabic/arabic/907
+
+#EXTINF:-1,AR - BAHRAIN TV
+http://voxtv.dynns.com:8000/arabic/arabic/901
+
+#EXTINF:-1,AR - ART HEKAYAT 2
+http://voxtv.dynns.com:8000/arabic/arabic/897
+
+#EXTINF:-1,AR - ART AFLAM 1
+http://voxtv.dynns.com:8000/arabic/arabic/893
+
+#EXTINF:-1,AR - AL SHARGIYA NEWS
+http://voxtv.dynns.com:8000/arabic/arabic/883
+
+#EXTINF:-1,AR - AL MAJD
+http://voxtv.dynns.com:8000/arabic/arabic/880
+
+#EXTINF:-1,AR - AL JAZEERA DOC
+http://voxtv.dynns.com:8000/arabic/arabic/878
+
+#EXTINF:-1,AR - AL HADATH
+http://voxtv.dynns.com:8000/arabic/arabic/874
+
+#EXTINF:-1,AR - AGHANI TV
+http://voxtv.dynns.com:8000/arabic/arabic/871
+
+#EXTINF:-1,AR - AR ZEE ALWAN
+http://voxtv.dynns.com:8000/arabic/arabic/1009
+
+#EXTINF:-1,AR - MBC 3
+http://voxtv.dynns.com:8000/arabic/arabic/1012
