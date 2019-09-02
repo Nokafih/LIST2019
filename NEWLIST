@@ -46,6 +46,31 @@ https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="24/7 ARABIC NEWS",TRT Arabic (TR)
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
 
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42529.m3u8
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42530.m3u8
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42531.m3u8
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42532.m3u8
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42533.m3u8
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42534.m3u8
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42535.m3u8
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42536.m3u8
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42537.m3u8
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42538.m3u8
+#EXTINF:-1,AR: Bein Sport 11
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42539.m3u8
+#EXTINF:-1,AR: BeIN Sport 12
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42540.m3u8
+
 #EXTINF:-1,|FR| BEIN SPORTS 1 FHD
 http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6263
 
