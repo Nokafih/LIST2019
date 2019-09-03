@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula (Opt-2)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1,MOROCCO:2M Maroc
-https://edge-04.playmedia-cdn.net/origin02/amlst:2m-maroc/chunklist_w399253031_b800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",2M Maroc
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",AL MAGHRIBYA
 http://voxtv.dynns.com:8000/arabic/arabic/879
@@ -23,7 +23,7 @@ http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
 https://stream-10.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa6ASm_US4WDN_FqzAenCtCA)/dm/3/x2j4lj9/d/stream-2-1567545516.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-1)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
 #EXTINF:-1,FR:France 24
 http://kanali.ddns.net:25461/tvfrance/tvfrance/1371
@@ -43,7 +43,7 @@ http://voxtv.dynns.com:8000/arabic/arabic/1012
 #EXTINF:-1,AR - MBC 4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
 
-#EXTINF:-1,AR - MBC 4
+#EXTINF:-1,AR - MBC Action
 http://37.75.209.99:1933/live/TVMBC-Action/chunklist_w1050115922.m3u8
 
 #EXTINF:-1,AR - MBC MASAR 2
