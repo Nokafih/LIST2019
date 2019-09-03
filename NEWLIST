@@ -7,6 +7,12 @@ http://voxtv.dynns.com:8000/arabic/arabic/879
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",ARRYADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera English (Opt-1) (QA)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 ARABIC NEWS",France 24 Arabic (FR) (New!)
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+
 #EXTINF:-1,FR:TF 1
 http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
 
@@ -37,11 +43,11 @@ http://voxtv.dynns.com:8000/arabic/arabic/897
 #EXTINF:-1,AR - ART AFLAM 1
 http://voxtv.dynns.com:8000/arabic/arabic/893
 
+#EXTINF:-1,AR - BEIN MOVIES 4 HD
+http://voxtv.dynns.com:8000/arabic/arabic/907
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 SD (Opt-1)
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera English (Opt-1) (QA)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-1) (GB)
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
@@ -66,9 +72,6 @@ http://ott-cdn.ucom.am/s25/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="UK",Euronews ENG
 http://164.40.161.46:8002/play/s4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 ARABIC NEWS",France 24 Arabic (FR) (New!)
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 ARABIC NEWS",RT Arabic (RU) (New!)
 https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
