@@ -1,3 +1,42 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula (Opt-2)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",AL MAGHRIBYA
+http://voxtv.dynns.com:8000/arabic/arabic/879
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",ARRYADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1,FR:TF 1
+http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
+
+#EXTINF:-1,FR:France 24
+http://kanali.ddns.net:25461/tvfrance/tvfrance/1371
+
+#EXTINF:-1,FR:Arte
+http://kanali.ddns.net:25461/tvfrance/tvfrance/1370
+
+#EXTINF:-1,AR - MBC 1
+http://voxtv.dynns.com:8000/arabic/arabic/934
+
+#EXTINF:-1,AR - MBC  2
+http://voxtv.dynns.com:8000/arabic/arabic/935
+
+#EXTINF:-1,AR - MBC 3
+http://voxtv.dynns.com:8000/arabic/arabic/1012
+
+#EXTINF:-1,AR - MBC MASAR 2
+http://voxtv.dynns.com:8000/arabic/arabic/941
+
+#EXTINF:-1,AR - MBC MASAR
+http://voxtv.dynns.com:8000/arabic/arabic/940
+
+#EXTINF:-1,AR - ART HEKAYAT 2
+http://voxtv.dynns.com:8000/arabic/arabic/897
+
+#EXTINF:-1,AR - ART AFLAM 1
+http://voxtv.dynns.com:8000/arabic/arabic/893
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 SD (Opt-1)
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 
@@ -15,15 +54,6 @@ http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-3) (US)
 http://persik.by/stream/2130/401056/10479.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula (Opt-2)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",AL MAGHRIBYA
-http://voxtv.dynns.com:8000/arabic/arabic/879
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",ARRYADIA
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-1)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
