@@ -20,7 +20,7 @@ http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
 http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
 
 #EXTINF:-1,FR:Euro News FR
-https://edge-02.playmedia-cdn.net/origin02/amlst:euronews/chunklist_w1575538297_b800000.m3u8
+https://stream-10.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa6ASm_US4WDN_FqzAenCtCA)/dm/3/x2j4lj9/d/stream-2-1567545516.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-1)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
