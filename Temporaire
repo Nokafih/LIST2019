@@ -2,14 +2,6 @@
 #EXTM3U
 #EXTINF:-1,AR VIP: Bein Sport 2 HD (Backup)
 http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5987.m3u8
-#EXTINF:0,Bein sports 1
-http://8d4a1a46-stream.nmbs.top/c/28/1372.m3u8
-#EXTINF:0,Bein sports 2
-http://8d4a1a46-stream.nmbs.top/c/28/1373.m3u8
-#EXTINF:0,Bein sports 3
-http://8d4a1a46-stream.nmbs.top/c/28/1374.m3u8
-#EXTINF:0,Bein sports 4
-http://8d4a1a46-stream.nmbs.top/c/28/1375.m3u8
 #EXTINF:-1,BeIN Sports 1
 http://forsat.men:8888/leo6/LGZE4IqIDp/10
 #EXTINF:-1,BeIN Sports 2
@@ -36,6 +28,10 @@ http://forsat.men:8888/leo6/LGZE4IqIDp/254
 http://forsat.men:8888/leo6/LGZE4IqIDp/255
 #EXTINF:-1,BeIN LaLiga
 http://forsat.men:8888/leo6/LGZE4IqIDp/416
+#EXTINF:-1,Bein_Max Astro
+http://forsat.men:8888/leo6/LGZE4IqIDp/2316
+#EXTINF:-1,Bein_Sport Astro
+http://forsat.men:8888/leo6/LGZE4IqIDp/2317
 #EXTINF:-1,BT Sport 1
 http://forsat.men:8888/leo6/LGZE4IqIDp/319
 #EXTINF:-1,BT Sport 2
