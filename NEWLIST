@@ -1,3 +1,99 @@
 #EXTM3U
-#EXTINF:-1,AR VIP: Bein Sport 2 HD (Backup)
-http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5987.m3u8
+#EXTINF:-1,AR - AL AOULA HD
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1,AR - 2M
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1,AR - ALJAZEERA HD
+https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index207320190914T155833_1588571.ts
+
+#EXTINF:-1,AR - ARRYADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1,AR - AL MAGHRIBIYA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1,FR:TF 1
+http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
+
+#EXTINF:-1,FR:France 24
+http://kanali.ddns.net:25461/tvfrance/tvfrance/1371
+
+#EXTINF:-1,FR:Arte
+http://kanali.ddns.net:25461/tvfrance/tvfrance/1370
+
+#EXTINF:-1,AR - ZEE AFLAM
+http://voxtv.dynns.com:8000/arabic/arabic/1000
+
+#EXTINF:-1,AR - TIME CINEMA
+http://voxtv.dynns.com:8000/arabic/arabic/997
+
+#EXTINF:-1,AR - SYRIA TV
+http://voxtv.dynns.com:8000/arabic/arabic/994
+
+#EXTINF:-1,AR - SYRIA NOUR EL SHAM
+http://voxtv.dynns.com:8000/arabic/arabic/993
+
+#EXTINF:-1,AR - ROTANA MASSRIA
+http://voxtv.dynns.com:8000/arabic/arabic/977
+
+#EXTINF:-1,AR - NILE SPORT
+http://voxtv.dynns.com:8000/arabic/arabic/953
+
+#EXTINF:-1,AR - MBC MASAR 2
+http://voxtv.dynns.com:8000/arabic/arabic/941
+
+#EXTINF:-1,AR - MBC MASAR
+http://voxtv.dynns.com:8000/arabic/arabic/940
+
+#EXTINF:-1,AR - MBC  2
+http://voxtv.dynns.com:8000/arabic/arabic/935
+
+#EXTINF:-1,AR - MBC 1
+http://voxtv.dynns.com:8000/arabic/arabic/934
+
+#EXTINF:-1,AR - KTV 2
+http://voxtv.dynns.com:8000/arabic/arabic/933
+
+#EXTINF:-1,AR - KTV 1
+http://voxtv.dynns.com:8000/arabic/arabic/932
+
+#EXTINF:-1,AR - DUBAI ONE
+http://voxtv.dynns.com:8000/arabic/arabic/917
+
+#EXTINF:-1,AR - BEIN MOVIES 4 HD
+http://voxtv.dynns.com:8000/arabic/arabic/907
+
+#EXTINF:-1,AR - BAHRAIN TV
+http://voxtv.dynns.com:8000/arabic/arabic/901
+
+#EXTINF:-1,AR - ART HEKAYAT 2
+http://voxtv.dynns.com:8000/arabic/arabic/897
+
+#EXTINF:-1,AR - ART AFLAM 1
+http://voxtv.dynns.com:8000/arabic/arabic/893
+
+#EXTINF:-1,AR - AL SHARGIYA NEWS
+http://voxtv.dynns.com:8000/arabic/arabic/883
+
+#EXTINF:-1,AR - AL MAJD
+http://voxtv.dynns.com:8000/arabic/arabic/880
+
+#EXTINF:-1,AR - AL MAGHRIBYA
+http://voxtv.dynns.com:8000/arabic/arabic/879
+
+#EXTINF:-1,AR - AL JAZEERA DOC
+http://voxtv.dynns.com:8000/arabic/arabic/878
+
+#EXTINF:-1,AR - AL HADATH
+http://voxtv.dynns.com:8000/arabic/arabic/874
+
+#EXTINF:-1,AR - AGHANI TV
+http://voxtv.dynns.com:8000/arabic/arabic/871
+
+#EXTINF:-1,AR - AR ZEE ALWAN
+http://voxtv.dynns.com:8000/arabic/arabic/1009
+
+#EXTINF:-1,AR - MBC 3
+http://voxtv.dynns.com:8000/arabic/arabic/1012
