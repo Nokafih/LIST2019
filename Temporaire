@@ -1,5 +1,8 @@
 
 #EXTM3U
+#EXTINF:-1,AR VIP: Bein Sport 2 HD (Backup)
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5987.m3u8
+
 #EXTVLCOPT:http-user-agent=lolllololollol
 #EXTINF:-1,beinar low-1
 http://194.88.104.169:8081/12s3d1see/beinsports1ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
