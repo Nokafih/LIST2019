@@ -1,428 +1,124 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTM3U
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-1
+http://194.88.104.169:8081/12s3d1see/beinsports1ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-2
+http://194.88.104.169:8081/12s3d1see/beinsports2ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-3
+http://194.88.104.169:8081/12s3d1see/beinsports3ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-4
+http://194.88.104.169:8081/12s3d1see/beinsports4ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-5
+http://194.88.104.169:8081/12s3d1see/beinsports5ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-6
+http://194.88.104.169:8081/12s3d1see/beinsports6ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-7
+http://194.88.104.169:8081/12s3d1see/beinsports7ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-8
+http://194.88.104.169:8081/12s3d1see/beinsports8ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-9
+http://194.88.104.169:8081/12s3d1see/beinsports9ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-10
+http://194.88.104.169:8081/12s3d1see/beinsports10ar-3g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,bein low-1
+http://194.88.104.169:8081/12s3d1see/bein1fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,bein low-2
+http://194.88.104.169:8081/12s3d1see/bein2fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,bein low-3
+http://194.88.104.169:8081/12s3d1see/bein3fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,bein low-1
+http://194.88.104.169:8081/12s3d1see/bein1fr-2g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,bein low-2
+http://194.88.104.169:8081/12s3d1see/bein2fr-2g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,bein low-3
+http://194.88.104.169:8081/12s3d1see/bein3fr-2g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=2139jkjks
+#EXTINF:-1,SUPERSPORT1
+http://51.15.0.231:8081/live/SUPERSPORT1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjAzIEFNJmhhc2hfdmFsdWU9TDBKdDFYOEVJUFAyU3QrN1BPVDV2Zz09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
+
+#EXTVLCOPT:http-user-agent=2139jkjks
+#EXTINF:-1,SUPERSPORT2
+http://51.15.0.231:8081/live/SUPERSPORT2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjAzIEFNJmhhc2hfdmFsdWU9TDBKdDFYOEVJUFAyU3QrN1BPVDV2Zz09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
+
+#EXTVLCOPT:http-user-agent=2139jkjks
+#EXTINF:-1,SUPERSPORT3
+http://51.15.0.231:8081/live/SUPERSPORT3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjAzIEFNJmhhc2hfdmFsdWU9TDBKdDFYOEVJUFAyU3QrN1BPVDV2Zz09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
+
+#EXTVLCOPT:http-user-agent=2139jkjks
+#EXTINF:-1,SUPERSPORT4
+http://51.15.0.231:8081/live/SUPERSPORT4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjAzIEFNJmhhc2hfdmFsdWU9TDBKdDFYOEVJUFAyU3QrN1BPVDV2Zz09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
+
+#EXTVLCOPT:http-user-agent=2139jkjks
+#EXTINF:-1,SUPERSPORT5
+http://51.15.0.231:8081/live/SUPERSPORT5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjAzIEFNJmhhc2hfdmFsdWU9TDBKdDFYOEVJUFAyU3QrN1BPVDV2Zz09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-1
+http://194.88.104.169:8081/12s3d1see/beinsports1ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-2
+http://194.88.104.169:8081/12s3d1see/beinsports2ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-3
+http://194.88.104.169:8081/12s3d1see/beinsports3ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-4
+http://194.88.104.169:8081/12s3d1see/beinsports4ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-5
+http://194.88.104.169:8081/12s3d1see/beinsports5ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",2M Maroc
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-6
+http://194.88.104.169:8081/12s3d1see/beinsports6ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",AL MAGHRIBYA
-http://voxtv.dynns.com:8000/arabic/arabic/879
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-7
+http://194.88.104.169:8081/12s3d1see/beinsports1ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/Sans%20titre.png" group-title="MOROCCO",ARRYADIA
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-8
+http://194.88.104.169:8081/12s3d1see/beinsports8ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera English (Opt-1) (QA)
-https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index2073.m3u8
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-9
+http://194.88.104.169:8081/12s3d1see/beinsports9ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 ARABIC NEWS",France 24 Arabic (FR) (New!)
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,FR:TF 1
-http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
-
-#EXTINF:-1,FR:Euro News FR
-https://stream-10.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa6ASm_US4WDN_FqzAenCtCA)/dm/3/x2j4lj9/d/stream-2-1567545516.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-1)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-
-#EXTINF:-1,FR:France 24
-http://kanali.ddns.net:25461/tvfrance/tvfrance/1371
-
-#EXTINF:-1,FR:Arte
-http://kanali.ddns.net:25461/tvfrance/tvfrance/1370
-
-#EXTINF:-1,AR - MBC 1
-http://voxtv.dynns.com:8000/arabic/arabic/934
-
-#EXTINF:-1,AR - MBC  2
-http://voxtv.dynns.com:8000/arabic/arabic/935
-
-#EXTINF:-1,AR - MBC 3
-http://voxtv.dynns.com:8000/arabic/arabic/1012
-
-#EXTINF:-1,AR - MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-
-#EXTINF:-1,AR - MBC Action
-http://37.75.209.99:1933/live/TVMBC-Action/chunklist_w1050115922.m3u8
-
-#EXTINF:-1,AR - MBC MASAR 2
-http://voxtv.dynns.com:8000/arabic/arabic/941
-
-#EXTINF:-1,AR - MBC MASAR
-http://voxtv.dynns.com:8000/arabic/arabic/940
-
-#EXTINF:-1,AR - ART HEKAYAT 2
-http://voxtv.dynns.com:8000/arabic/arabic/897
-
-#EXTINF:-1,AR - ART AFLAM 1
-http://voxtv.dynns.com:8000/arabic/arabic/893
-
-#EXTINF:-1,AR - BEIN MOVIES 4 HD
-http://voxtv.dynns.com:8000/arabic/arabic/907
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 SD (Opt-1)
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-1) (GB)
-http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-1) (US)
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-2) (US)
-http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-3) (US)
-http://persik.by/stream/2130/401056/10479.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-1)
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-2)
-http://ott-cdn.ucom.am/s25/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="UK",Euronews ENG
-http://164.40.161.46:8002/play/s4
- 
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 ARABIC NEWS",RT Arabic (RU) (New!)
-https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="24/7 ARABIC NEWS",TRT Arabic (TR)
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42529.m3u8
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42530.m3u8
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42531.m3u8
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42532.m3u8
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42533.m3u8
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42534.m3u8
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42535.m3u8
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42536.m3u8
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42537.m3u8
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42538.m3u8
-#EXTINF:-1,AR: Bein Sport 11
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42539.m3u8
-#EXTINF:-1,AR: BeIN Sport 12
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42540.m3u8
-#EXTINF:0,mit: BEIN SPORT 1 HD
-http://116.202.26.54:3000/mita/QpWK0B/49
-#EXTINF:0,mit: BEIN SPORT 2 HD
-http://116.202.26.54:3000/mita/QpWK0B/50
-#EXTINF:0,mit: BEIN SPORT 3 HD
-http://116.202.26.54:3000/mita/QpWK0B/51
-#EXTINF:0,mit: BEIN SPORT 4 HD
-http://116.202.26.54:3000/mita/QpWK0B/52
-#EXTINF:0,mit: BEIN SPORT 5 HD
-http://116.202.26.54:3000/mita/QpWK0B/53
-#EXTINF:0,mit: BEIN SPORT 1 sd
-http://116.202.26.54:3000/mita/QpWK0B/54
-#EXTINF:0,mit: BEIN SPORT 2 sd
-http://116.202.26.54:3000/mita/QpWK0B/55
-#EXTINF:0,mit: BEIN SPORT 3 sd
-http://116.202.26.54:3000/mita/QpWK0B/56
-#EXTINF:0,mit: BEIN SPORT 4 sd
-http://116.202.26.54:3000/mita/QpWK0B/57
-#EXTINF:0,mit: BEIN SPORT 5
-http://116.202.26.54:3000/mita/QpWK0B/58
-
-#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6263
-
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6262
-
-#EXTINF:-1,|FR| BEIN SPORTS 1 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11720
-
-#EXTINF:-1,|HEVC| BEIN SPORTS 1
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/156687
-
-#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6261
-
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6260
-
-#EXTINF:-1,|FR| BEIN SPORTS 2 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11719
-
-#EXTINF:-1,|HEVC| BEIN SPORTS 2
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/156686
-
-#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6259
-
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6258
-
-#EXTINF:-1,|FR| BEIN SPORTS 3 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11718
-
-#EXTINF:-1,|HEVC| BEIN SPORTS 3
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/156685
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 4 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6257
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 4 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11717
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 5 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6256
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 5 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11716
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 6 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6255
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 6 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11715
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 7 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6254
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 7 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11714
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 8 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6253
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 8 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/11713
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 9 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/6252
-
-#EXTINF:-1,|FR| BEIN SPORTS MAX 10 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/133025
-
-#EXTINF:-1,|AR| beIN SPORTS 1 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125017
-
-#EXTINF:-1,|AR| beIN SPORTS 1 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124394
-
-#EXTINF:-1,|AR| BEIN SPORTS 1 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143099
-
-#EXTINF:-1,|AR| beIN SPORTS 2 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125016
-
-#EXTINF:-1,|AR| beIN SPORTS 2 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124393
-
-#EXTINF:-1,|AR| BEIN SPORTS 2 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143097
-
-#EXTINF:-1,|AR| beIN SPORTS 3 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125015
-
-#EXTINF:-1,|AR| beIN SPORTS 3 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124392
-
-#EXTINF:-1,|AR| BEIN SPORTS 3 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143095
-
-#EXTINF:-1,|AR| beIN SPORTS 4 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125014
-
-#EXTINF:-1,|AR| beIN SPORTS 4 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124391
-
-#EXTINF:-1,|AR| BEIN SPORTS 4 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143093
-
-#EXTINF:-1,|AR| beIN SPORTS 5 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125013
-
-#EXTINF:-1,|AR| beIN SPORTS 5 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124390
-
-#EXTINF:-1,|AR| BEIN SPORTS 5 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143091
-
-#EXTINF:-1,|AR| beIN SPORTS 6 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125012
-
-#EXTINF:-1,|AR| beIN SPORTS 6 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124389
-
-#EXTINF:-1,|AR| BEIN SPORTS 6 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143089
-
-#EXTINF:-1,|AR| beIN SPORTS 7 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125011
-
-#EXTINF:-1,|AR| beIN SPORTS 7 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124388
-
-#EXTINF:-1,|AR| BEIN SPORTS 7 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143087
-
-#EXTINF:-1,|AR| beIN SPORTS 8 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/125010
-
-#EXTINF:-1,|AR| beIN SPORTS 8 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124387
-
-#EXTINF:-1,|AR| BEIN SPORTS 8 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143085
-
-#EXTINF:-1,|AR| beIN SPORTS 9 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124386
-
-#EXTINF:-1,|AR| BEIN SPORTS 9 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143083
-
-#EXTINF:-1,|AR| beIN SPORTS 10 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124385
-
-#EXTINF:-1,|AR| BEIN SPORTS 10 SD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143082
-
-#EXTINF:-1,|AR| BEIN SPORTS 11 FHD (ENG)
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143081
-
-#EXTINF:-1,|AR| beIN SPORTS 11 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124383
-
-#EXTINF:-1,|AR| BEIN SPORTS 11 SD (ENG)
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143080
-
-#EXTINF:-1,|AR| BEIN SPORTS 12 FHD (ENG)
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143079
-
-#EXTINF:-1,|AR| beIN SPORTS 12 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124382
-
-#EXTINF:-1,|AR| BEIN SPORTS 12 SD (ENG)
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/143078
-
-#EXTINF:-1,|AR| Bein Sports MAX 1 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/179888
-
-#EXTINF:-1,|AR| BeIN SPORTS MAX 1 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/149323
-
-#EXTINF:-1,|AR| Bein Sports MAX 2 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/179887
-
-#EXTINF:-1,|AR| BeIN SPORTS MAX 2 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/149324
-
-#EXTINF:-1,|AR| Bein Sports MAX 3 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/179886
-
-#EXTINF:-1,|AR| Bein Sports MAX 3 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/179884
-
-#EXTINF:-1,|AR| Bein Sports MAX 4 FHD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/179885
-
-#EXTINF:-1,|AR| Bein Sports MAX 4 HD
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/179883
-
-#EXTINF:-1,**** beIN SPORTS |HEVC| ****
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124380
-
-#EXTINF:-1,|AR| beIN SPORTS 2 HD |HEVC|
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124379
-
-#EXTINF:-1,|AR| beIN SPORTS 3 HD |HEVC|
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124378
-
-#EXTINF:-1,|AR| beIN SPORTS 4 HD |HEVC|
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124377
-
-#EXTINF:-1,|AR| beIN SPORTS 5 HD |HEVC|
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124376
-
-#EXTINF:-1,|AR| beIN SPORTS 6 HD |HEVC|
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124375
-
-#EXTINF:-1,|AR| beIN SPORTS 7 HD |HEVC|
-http://netflexx.eu:8000/wj2nCVkgbS/f3QdTDrB1q/124374
-
-#EXTINF:-1,AR - ZEE AFLAM
-http://voxtv.dynns.com:8000/arabic/arabic/1000
-
-#EXTINF:-1,AR - TIME CINEMA
-http://voxtv.dynns.com:8000/arabic/arabic/997
-
-#EXTINF:-1,AR - SYRIA TV
-http://voxtv.dynns.com:8000/arabic/arabic/994
-
-#EXTINF:-1,AR - SYRIA NOUR EL SHAM
-http://voxtv.dynns.com:8000/arabic/arabic/993
-
-#EXTINF:-1,AR - ROTANA MASSRIA
-http://voxtv.dynns.com:8000/arabic/arabic/977
-
-#EXTINF:-1,AR - NILE SPORT
-http://voxtv.dynns.com:8000/arabic/arabic/953
-
-#EXTINF:-1,AR - MBC MASAR 2
-http://voxtv.dynns.com:8000/arabic/arabic/941
-
-#EXTINF:-1,AR - MBC MASAR
-http://voxtv.dynns.com:8000/arabic/arabic/940
-
-#EXTINF:-1,AR - MBC  2
-http://voxtv.dynns.com:8000/arabic/arabic/935
-
-#EXTINF:-1,AR - MBC 1
-http://voxtv.dynns.com:8000/arabic/arabic/934
-
-#EXTINF:-1,AR - KTV 2
-http://voxtv.dynns.com:8000/arabic/arabic/933
-
-#EXTINF:-1,AR - KTV 1
-http://voxtv.dynns.com:8000/arabic/arabic/932
-
-#EXTINF:-1,AR - DUBAI ONE
-http://voxtv.dynns.com:8000/arabic/arabic/917
-
-#EXTINF:-1,AR - BEIN MOVIES 4 HD
-http://voxtv.dynns.com:8000/arabic/arabic/907
-
-#EXTINF:-1,AR - BAHRAIN TV
-http://voxtv.dynns.com:8000/arabic/arabic/901
-
-#EXTINF:-1,AR - ART HEKAYAT 2
-http://voxtv.dynns.com:8000/arabic/arabic/897
-
-#EXTINF:-1,AR - ART AFLAM 1
-http://voxtv.dynns.com:8000/arabic/arabic/893
-
-#EXTINF:-1,AR - AL SHARGIYA NEWS
-http://voxtv.dynns.com:8000/arabic/arabic/883
-
-#EXTINF:-1,AR - AL MAJD
-http://voxtv.dynns.com:8000/arabic/arabic/880
-
-#EXTINF:-1,AR - AL JAZEERA DOC
-http://voxtv.dynns.com:8000/arabic/arabic/878
-
-#EXTINF:-1,AR - AL HADATH
-http://voxtv.dynns.com:8000/arabic/arabic/874
-
-#EXTINF:-1,AR - AGHANI TV
-http://voxtv.dynns.com:8000/arabic/arabic/871
-
-#EXTINF:-1,AR - AR ZEE ALWAN
-http://voxtv.dynns.com:8000/arabic/arabic/1009
-
-#EXTINF:-1,AR - MBC 3
-http://voxtv.dynns.com:8000/arabic/arabic/1012
+#EXTVLCOPT:http-user-agent=lolllololollol
+#EXTINF:-1,beinar low-10
+http://194.88.104.169:8081/12s3d1see/beinsports10ar-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTE6NTY6MzQgQU0maGFzaF92YWx1ZT1YK2gyOXhsWitmcDFmUmZoL1hJSytRPT0mdmFsaWRtaW51dGVzPTIw
