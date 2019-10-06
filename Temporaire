@@ -1,211 +1,38 @@
-
 #EXTM3U
-#EXTINF:-1,BEIN_SPORT_1_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/858
-#EXTINF:-1,BEIN_SPORT_2_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/859
-#EXTINF:-1,BEIN_SPORT_3_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/860
-#EXTINF:-1,BEIN_SPORT_4_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/861
-#EXTINF:-1,BEIN_SPORT_5_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/862
-#EXTINF:-1,BEIN_SPORT_6_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/863
-#EXTINF:-1,BEIN_SPORT_7_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/864
-#EXTINF:-1,BEIN_SPORT_8_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/865
-#EXTINF:-1,BEIN_SPORT_9_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/866
-#EXTINF:-1,BEIN_SPORT_10_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/867
-#EXTINF:-1,BEIN_SPORT_11_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3026
-#EXTINF:-1,BEIN_SPORT_12_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3027
-#EXTINF:-1,BEIN_SPORT_13_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/13
-#EXTINF:-1,BEIN_SPORT_14_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/14
-#EXTINF:-1,BEIN_SPORT_15_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/15
-#EXTINF:-1,BEIN_SPORT_16_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/19978
-#EXTINF:-1,bein_Sports_SD1
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1003
-#EXTINF:-1,bein_Sports_SD2
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1004
-#EXTINF:-1,bein_Sports_SD3
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1005
-#EXTINF:-1,bein_Sports_SD4
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1006
-#EXTINF:-1,bein_Sports_SD5
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1007
-#EXTINF:-1,bein_Sports_SD6
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1008
-#EXTINF:-1,bein_Sports_SD7
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1009
-#EXTINF:-1,bein_Sports_SD8
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1010
-#EXTINF:-1,bein_Sports_SD9
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1011
-#EXTINF:-1,bein_Sports_SD10
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1012
-#EXTINF:-1,bein_Sports_SD11
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3028
-#EXTINF:-1,bein_Sports_SD12
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3029
-#EXTINF:-1,BeINsport_HD1_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/16
-#EXTINF:-1,BeINsport_HD2_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/17
-#EXTINF:-1,BeINsport_HD3_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/18
-#EXTINF:-1,BeINsport_HD4_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/19
-#EXTINF:-1,BeINsport_HD5_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/20
-#EXTINF:-1,BeINsport_HD6_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/21
-#EXTINF:-1,BeINsport_HD7_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/22
-#EXTINF:-1,BeINsport_HD8_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/23
-#EXTINF:-1,BeINsport_HD9_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/24
-#EXTINF:-1,BeINsport_HD10_Low
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/25
-#EXTINF:-1,BEIN_SPORT_1_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3111
-#EXTINF:-1,BEIN_SPORT_2_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3110
-#EXTINF:-1,BEIN_SPORT_3_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3109
-#EXTINF:-1,BEIN_SPORT_4_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3108
-#EXTINF:-1,BEIN_SPORT_5_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3107
-#EXTINF:-1,BEIN_SPORT_6_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3106
-#EXTINF:-1,BEIN_SPORT_7_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3105
-#EXTINF:-1,BEIN_SPORT_8_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3104
-#EXTINF:-1,BEIN_SPORT_9_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3103
-#EXTINF:-1,BEIN_SPORT_10_HD_1080p
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3102
-#EXTINF:-1,BEIN_SPORT_1_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5544
-#EXTINF:-1,BEIN_SPORT_2_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5543
-#EXTINF:-1,BEIN_SPORT_3_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5542
-#EXTINF:-1,BEIN_SPORT_4_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5541
-#EXTINF:-1,BEIN_SPORT_5_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5540
-#EXTINF:-1,BEIN_SPORT_6_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5539
-#EXTINF:-1,BEIN_SPORT_7_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5538
-#EXTINF:-1,BEIN_SPORT_8_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5537
-#EXTINF:-1,BEIN_SPORT_9_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5536
-#EXTINF:-1,BEIN_SPORT_10_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5535
-#EXTINF:-1,BEIN_SPORT_11_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5534
-#EXTINF:-1,BEIN_SPORT_12_H265
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5533
-#EXTINF:-1,Bein_sport_1
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/165
-#EXTINF:-1,Bein_sport_2
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/167
-#EXTINF:-1,Bein_sport_3
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/168
-#EXTINF:-1,Bein_sport_4
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/169
-#EXTINF:-1,Bein_sport_5
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/170
-#EXTINF:-1,Bein_sport_6
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/171
-#EXTINF:-1,Bein_sport_7
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/172
-#EXTINF:-1,Bein_sport_8
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/173
-#EXTINF:-1,Bein_sport_9
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/174
-#EXTINF:-1,Bein_sport_10
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/166
-#EXTINF:-1,BEIN_SPORTS_1_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/1
-#EXTINF:-1,BEIN_SPORTS_2_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/2
-#EXTINF:-1,BEIN_SPORTS_3_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/3
-#EXTINF:-1,BEIN_SPORTS_4_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/4
-#EXTINF:-1,BEIN_SPORTS_5_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5
-#EXTINF:-1,BEIN_SPORTS_6_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/6
-#EXTINF:-1,BEIN_SPORTS_7_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/7
-#EXTINF:-1,BEIN_SPORTS_8_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/8
-#EXTINF:-1,BEIN_SPORTS_9_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/9
-#EXTINF:-1,BEIN_SPORTS_10_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/10
-#EXTINF:-1,BEIN_SPORTS_11_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/11
-#EXTINF:-1,BEIN_SPORTS_12_HD
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/12
-#EXTINF:-1,BEIN_SPORTS
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/5593
-#EXTINF:-1,BEIN_SPORTS_NEWS
-http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/2219
-#EXTINF:-1,AR VIP: Bein Sport 2 HD (Backup)
-http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5987.m3u8
-#EXTINF:-1,BeIN Sports 1
-http://forsat.men:8888/leo6/LGZE4IqIDp/10
-#EXTINF:-1,BeIN Sports 2
-http://forsat.men:8888/leo6/LGZE4IqIDp/11
-#EXTINF:-1,BeIN Sports 3
-http://forsat.men:8888/leo6/LGZE4IqIDp/12
-#EXTINF:-1,BeIN Sports 4
-http://forsat.men:8888/leo6/LGZE4IqIDp/217
-#EXTINF:-1,BeIN Sports 5
-http://forsat.men:8888/leo6/LGZE4IqIDp/218
-#EXTINF:-1,BeIN Sports 6
-http://forsat.men:8888/leo6/LGZE4IqIDp/219
-#EXTINF:-1,BeIN Sports 7
-http://forsat.men:8888/leo6/LGZE4IqIDp/220
-#EXTINF:-1,BeIN Sports 8
-http://forsat.men:8888/leo6/LGZE4IqIDp/221
-#EXTINF:-1,BeIN Sports 9
-http://forsat.men:8888/leo6/LGZE4IqIDp/222
-#EXTINF:-1,BeIN Sports 10
-http://forsat.men:8888/leo6/LGZE4IqIDp/253
-#EXTINF:-1,BeIN Sports 11
-http://forsat.men:8888/leo6/LGZE4IqIDp/254
-#EXTINF:-1,BeIN Sports 12
-http://forsat.men:8888/leo6/LGZE4IqIDp/255
-#EXTINF:-1,BeIN LaLiga
-http://forsat.men:8888/leo6/LGZE4IqIDp/416
-#EXTINF:-1,Bein_Max Astro
-http://forsat.men:8888/leo6/LGZE4IqIDp/2316
-#EXTINF:-1,Bein_Sport Astro
-http://forsat.men:8888/leo6/LGZE4IqIDp/2317
-#EXTINF:-1,BT Sport 1
-http://forsat.men:8888/leo6/LGZE4IqIDp/319
-#EXTINF:-1,BT Sport 2
-http://forsat.men:8888/leo6/LGZE4IqIDp/320
-#EXTINF:-1,BT Sport 3
-http://forsat.men:8888/leo6/LGZE4IqIDp/321
+#EXTINF:0,: BeIN Sports 1HD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/3.ts
+#EXTINF:0,: BeIN Sports 1FHD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/4.ts
+#EXTINF:0,: BeIN Sports 1FULLHD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/5.ts
+#EXTINF:0,: BeIN Sports 2HD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/6.ts
+#EXTINF:0,: BeIN Sports 2FHD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/7.ts
+#EXTINF:0,: BeIN Sports 2FULLHD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/8.ts
+#EXTINF:0,: BeIN Sports 3HD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/9.ts
+#EXTINF:0,: BeIN Sports 3FHD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/10.ts
+#EXTINF:0,: BeIN Sports 3FULLHD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/11.ts
+#EXTINF:0,: BeIN Sports 4HD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/12.ts
+#EXTINF:0,: BeIN Sports 4FULHD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/13.ts
+#EXTINF:0,: BeIN Sports 5HD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/14.ts
+#EXTINF:0,: BeIN Sports 6HD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/15.ts
+#EXTINF:0,: ❀☞  BeIN Sports SD  ☜❀
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/23.ts
+#EXTINF:0,: BeIN Sports 1SD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/25.ts
+#EXTINF:0,: BeIN Sports 2SD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/26.ts
+#EXTINF:0,: BeIN Sports 3SD
+http://iptv-janberyan.com:25461/live/000000152200/000000152200/27.ts
 
 #EXTINF:-1,EN | Horror | Hoax (Kokita-2019)
 http://mytv.fun:8080/movie/001a79002170/001a79002170AM/661775.mp4
