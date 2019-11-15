@@ -14,6 +14,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 #EXTINF:-1,AR - AL MAGHRIBIYA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| 4K - BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/COBRALOGO/BIENSPORTS/BeinSportHD2.png" group-title="AR| BEIN & AD SPORTS",|AR| 4K - BEIN SPORTS 2 HD
+http://line.hi-ott.net:80/yBXnaDoRwqoXUOr/63vDrXVjIfTfExb/28570
+
 #EXTINF:-1,FR:TF 1
 http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
 
