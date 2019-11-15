@@ -119,7 +119,7 @@ http://line.hi-ott.net:80/yBXnaDoRwqoXUOr/63vDrXVjIfTfExb/97841
 
 #EXTINF:-1 tvg-ID="" tvg-name="##### |FR|HD| CH. CANAL+ #####" tvg-logo="https://github.com/Nokafih/logo/blob/master/Sans%20titre.png" group-title="FRANCE HD",##### |FR|HD| CH. CANAL+ #####
 http://line.hi-ott.net:80/yBXnaDoRwqoXUOr/63vDrXVjIfTfExb/5332
-#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ HD" tvg-logo="https://github.com/Nokafih/logo/blob/master/Sans%20titre.png" group-title="FRANCE HD",|FR| CANAL+ HD
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ HD" tvg-logo="https://raw.githubusercontent.com/Nokafih/logo/master/WIN_20181006_20_24_01_Pro.jpg" group-title="FRANCE HD",|FR| CANAL+ HD
 http://line.hi-ott.net:80/yBXnaDoRwqoXUOr/63vDrXVjIfTfExb/1404
 #EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://212.8.253.112/COBRALOGO/FRANCE/Canal%2BSport.png" group-title="FRANCE HD",|FR| CANAL+ SPORT HD
 http://line.hi-ott.net:80/yBXnaDoRwqoXUOr/63vDrXVjIfTfExb/1407
