@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1,|FR| BEINSPORTS 1 F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14160.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28941.m3u8
+#EXTINF:-1,|FR| BEINSPORT 1 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/92.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14159.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28943.m3u8
+#EXTINF:-1,|FR| BEINSPORT 2 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/93.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14158.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14163.m3u8
+#EXTINF:-1,|FR| BEINSPORT 3 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/94.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 4
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/95.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 5
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39882.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 6
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1089.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 7
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1113.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 8
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1468.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 9
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1469.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 10
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1470.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14156.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14161.m3u8
+#EXTINF:-1,|FR| SPORT 365 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25040.m3u8
+#EXTINF:-1,|FR| FOOT+
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13937.m3u8
+#EXTINF:-1,|FR| FOOT+24 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/425.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13936.m3u8
 #EXTINF:0,BeinSport3
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
